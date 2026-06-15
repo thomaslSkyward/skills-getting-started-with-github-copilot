@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Shark icon">
+  <defs>
+    <linearGradient id="body" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6ec6ff" />
+      <stop offset="1" stop-color="#0288d1" />
+    </linearGradient>
+  </defs>
+  <path fill="url(#body)" d="M6 32c7-2 12-8 18-13 5-4 12-7 20-7 5 0 9 1 13 3-3 2-6 6-6 10 0 4 3 8 7 10-5 3-10 5-17 5-6 0-10-2-15-5l-7 5-2-6-8-2z" />
+  <circle cx="43" cy="24" r="2.2" fill="#0d1b2a" />
+  <path fill="#ffffff" d="M31 34l4 5 4-5z" />
+  <path fill="#ff5252" d="M39 31l-3 4h6z" />
+  <path fill="#b3e5fc" d="M20 27c4-2 8-3 12-3 3 0 6 0 10 1-4 2-8 4-13 4-3 0-6-1-9-2z" />
+</svg>
